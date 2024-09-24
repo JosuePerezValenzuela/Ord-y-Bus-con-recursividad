@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=ejer1
+comment1.params=secuencia
+comment1.target=java.util.ArrayList\ subSecuenciaLarga(java.util.ArrayList)
+comment2.params=resp\ iterador\ secuencia
+comment2.target=void\ subSecuenciaLarga(java.util.ArrayList,\ int,\ java.util.ArrayList)
+comment3.params=act\ sig
+comment3.target=boolean\ EsMayorMenorEn1(int,\ int)
+comment4.params=
+comment4.target=java.util.ArrayList\ array()
+numComments=5

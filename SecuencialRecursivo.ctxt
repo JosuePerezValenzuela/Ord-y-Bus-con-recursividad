@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=SecuencialRecursivo
+comment1.params=dato\ numeros
+comment1.target=int\ secuencial(int,\ int[])
+numComments=2

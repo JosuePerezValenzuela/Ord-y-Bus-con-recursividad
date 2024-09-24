@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=InsercionRecursivo
+comment1.params=numeros
+comment1.target=int[]\ insercion(int[])
+comment2.params=numeros\ ite
+comment2.target=void\ ordenarALaIzquierda(int[],\ int)
+numComments=3

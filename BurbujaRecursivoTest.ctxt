@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=BurbujaRecursivoTest
+comment1.params=
+comment1.target=BurbujaRecursivoTest()
+comment2.params=
+comment2.target=void\ setUp()
+comment3.params=
+comment3.target=void\ prueba1()
+comment4.params=
+comment4.target=void\ prueba2()
+comment5.params=
+comment5.target=void\ tearDown()
+comment5.text=\r\n\ Tears\ down\ the\ test\ fixture.\r\n\r\n\ Called\ after\ every\ test\ case\ method.\r\n
+numComments=6
